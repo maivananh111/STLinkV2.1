@@ -1,4 +1,4 @@
-21056210753998545
+21066245494949208
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6271,7 +6271,14 @@ capacitor tantalum
 0
 2
 2
-Conn_02x05_Horizontal_2Layer
+Conn_Horizontal_2Layer
+Conn_02x04_Horizontal_2Layer
+
+
+0
+8
+8
+Conn_Horizontal_2Layer
 Conn_02x05_Horizontal_2Layer
 
 
@@ -88137,6 +88144,20 @@ varistor
 2
 2
 XH_2.54mm_Conn
+S6B-PH-SM4-TB
+
+
+0
+8
+7
+XH_2.54mm_Conn
+XH_2P_2.54mm_Horizontal_SMD
+JST-XH-2.54-SMD 2pin
+
+0
+4
+2
+XH_2.54mm_Conn
 XH_2P_2.54mm_Vertical
 
 
@@ -88158,12 +88179,33 @@ XH_4P_2.54mm_Horizontal
 4
 4
 XH_2.54mm_Conn
+XH_4P_2.54mm_Horizontal_SMD
+JST-XH-2.54-SMD
+
+0
+6
+6
+XH_2.54mm_Conn
 XH_5P_2.54mm_Horizontal
 
 
 0
 5
 5
+XH_2.54mm_Conn
+XH_5P_2.54mm_Horizontal_SMD
+
+
+0
+7
+6
+XH_2.54mm_Conn
+XH_6P_2.54mm_Horizontal_SMD
+
+
+0
+8
+7
 XH_2.54mm_Conn
 XH_6P_2.54mm_Vertical
 
